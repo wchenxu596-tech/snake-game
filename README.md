@@ -46,6 +46,8 @@ snake-game/
 └── .gitignore   # Git 忽略规则
 ```
 
-## 📄 许可证
+## 📸 运行效果图
 
-MIT © wchenxu596-tech
+<img width="800" alt="游戏主界面 - 贪吃蛇正在游玩中" src="https://github.com/user-attachments/assets/0b419ae6-fcc2-4fda-ba53-0f81417b143e" />
+<img width="800" alt="游戏结束界面 - 显示得分与最高纪录" src="https://github.com/user-attachments/assets/88dc3848-0332-4312-a624-1c9e411cd0c8" />
+<img width="800" alt="皮肤商店界面 - 可选多种蛇皮肤" src="https://github.com/user-attachments/assets/11b23ee6-2494-440c-81a9-58864695a768" />
